@@ -1,0 +1,2 @@
+{:deps {io.github.nextjournal/clerk {:mvn/version "0.8.445"}
+        org.clojure/data.csv {:mvn/version "1.0.1"}}}
