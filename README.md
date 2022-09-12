@@ -2,7 +2,9 @@
 
 A repo containing the code from Swirrl's blog series on data visualisation using [Hanami](https://github.com/jsa-aerial/hanami), rendered with [Clerk](https://github.com/nextjournal/clerk).
 
-First post in the series, about setting up a Clojure environment and Clerk notebook: https://medium.swirrl.com/exploring-data-with-clojure-and-clerk-7010ee4e9346
+To learn how to set up a Clojure environment and Clerk notebook, see the first post in the series: https://medium.swirrl.com/exploring-data-with-clojure-and-clerk-7010ee4e9346
+
+The `main` branch has the code up to the end of the first tutorial. The `completed-visualisation` branch contains the completed code for the entire demo.
 
 # Usage
 
