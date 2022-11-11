@@ -1,138 +1,138 @@
-year_label,avg_temp
-2018,9.445941863E0
-2019,9.388839151E0
-2020,9.61783735E0
-2011,9.607467562E0
-2012,8.737810738E0
-2013,8.741614548E0
-2014,9.87960063E0
-2015,9.184396795E0
-2016,9.286370847E0
-2017,9.530665863E0
-1998,9.157646438E0
-1999,9.37297137E0
-2000,9.098586858E0
-2001,8.800645945E0
-2002,9.436561973E0
-2003,9.472070932E0
-2004,9.441717596E0
-2005,9.415262356E0
-2006,9.702520356E0
-2007,9.564108411E0
-2008,9.021623552E0
-2009,9.136951151E0
-2010,7.938487781E0
-1997,9.408207479E0
-1948,8.805530601E0
-1949,9.340455644E0
-1950,8.29967211E0
-1951,8.113060438E0
-1952,7.99254276E0
-1953,8.909713123E0
-1954,8.127874055E0
-1955,8.229910164E0
-1956,7.902559672E0
-1957,8.836948082E0
-1958,8.251247233E0
-1959,9.242711589E0
-1960,8.538865765E0
-1961,8.669570438E0
-1962,7.561311699E0
-1963,7.403362301E0
-1964,8.309637978E0
-1965,7.755031096E0
-1966,8.188235644E0
-1967,8.468887534E0
-1968,8.156050765E0
-1969,8.115813178E0
-1970,8.313165589E0
-1971,8.728489342E0
-1972,8.100739372E0
-1973,8.431589808E0
-1974,8.377417562E0
-1975,8.76912074E0
-1976,8.735416913E0
-1977,8.266387945E0
-1978,8.226715315E0
-1979,7.594574274E0
-1980,8.255493087E0
-1981,8.102850164E0
-1982,8.656485973E0
-1983,8.826009671E0
-1984,8.573475027E0
-1985,7.784863808E0
-1986,7.674404411E0
-1987,7.993920438E0
-1988,8.728827322E0
-1989,9.227868301E0
-1990,9.379555041E0
-1991,8.541466301E0
-1992,8.693109098E0
-1993,8.325390795E0
-1994,8.885166384E0
-1995,9.173812192E0
-1996,8.178423169E0
-1884,8.475600874E0
-1885,7.361354658E0
-1886,7.451675096E0
-1887,7.508783945E0
-1888,7.280336175E0
-1889,8.015178822E0
-1890,7.957247288E0
-1891,7.601503836E0
-1892,7.01653041E0
-1893,8.782930055E0
-1894,8.185849507E0
-1895,7.546528384E0
-1896,8.259370683E0
-1897,8.229974575E0
-1898,8.875231479E0
-1899,8.57228937E0
-1900,8.283999671E0
-1901,8.082372164E0
-1902,7.725575014E0
-1903,8.019626877E0
-1904,7.992343798E0
-1905,8.188413342E0
-1906,8.292621863E0
-1907,7.833456712E0
-1908,8.306992268E0
-1909,7.520684247E0
-1910,8.090229644E0
-1911,8.810151041E0
-1912,8.173879536E0
-1913,8.592562959E0
-1914,8.695387288E0
-1915,7.810789781E0
-1916,8.105514262E0
-1917,7.521023315E0
-1918,8.327633726E0
-1919,7.424323534E0
-1920,8.450561557E0
-1921,9.240960192E0
-1922,7.632063534E0
-1923,7.967663342E0
-1924,8.191917049E0
-1925,8.123022658E0
-1926,8.585211123E0
-1927,8.065698192E0
-1928,8.351416803E0
-1929,7.978344548E0
-1930,8.291005205E0
-1931,7.978350712E0
-1932,8.350144754E0
-1933,8.824196712E0
-1934,8.867847534E0
-1935,8.521009342E0
-1936,8.255324918E0
-1937,8.334515616E0
-1938,8.924313616E0
-1939,8.566243836E0
-1940,8.007832814E0
-1941,7.956245479E0
-1942,8.032649945E0
-1943,8.881350685E0
-1944,8.441960628E0
-1945,9.133828411E0
-1946,8.349250712E0
-1947,8.373648384E0
+Year,Geography,Measure type,Annual Mean Temperature,Unit of Measure
+1902,UK,Annual Mean Temperature,7.725575014,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1913,UK,Annual Mean Temperature,8.592562959,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1924,UK,Annual Mean Temperature,8.191917049,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1935,UK,Annual Mean Temperature,8.521009342,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1946,UK,Annual Mean Temperature,8.349250712,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1957,UK,Annual Mean Temperature,8.836948082,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1968,UK,Annual Mean Temperature,8.156050765,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1979,UK,Annual Mean Temperature,7.594574274,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1947,UK,Annual Mean Temperature,8.373648384,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1958,UK,Annual Mean Temperature,8.251247233,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1969,UK,Annual Mean Temperature,8.115813178,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1903,UK,Annual Mean Temperature,8.019626877,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1914,UK,Annual Mean Temperature,8.695387288,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1925,UK,Annual Mean Temperature,8.123022658,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1936,UK,Annual Mean Temperature,8.255324918,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1904,UK,Annual Mean Temperature,7.992343798,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1915,UK,Annual Mean Temperature,7.810789781,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1926,UK,Annual Mean Temperature,8.585211123,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1937,UK,Annual Mean Temperature,8.334515616,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1948,UK,Annual Mean Temperature,8.805530601,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1959,UK,Annual Mean Temperature,9.242711589,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1905,UK,Annual Mean Temperature,8.188413342,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1916,UK,Annual Mean Temperature,8.105514262,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1927,UK,Annual Mean Temperature,8.065698192,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1938,UK,Annual Mean Temperature,8.924313616,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1949,UK,Annual Mean Temperature,9.340455644,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1906,UK,Annual Mean Temperature,8.292621863,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1917,UK,Annual Mean Temperature,7.521023315,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1928,UK,Annual Mean Temperature,8.351416803,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1939,UK,Annual Mean Temperature,8.566243836,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1907,UK,Annual Mean Temperature,7.833456712,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1918,UK,Annual Mean Temperature,8.327633726,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1929,UK,Annual Mean Temperature,7.978344548,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1908,UK,Annual Mean Temperature,8.306992268,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1919,UK,Annual Mean Temperature,7.424323534,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1909,UK,Annual Mean Temperature,7.520684247,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2020,UK,Annual Mean Temperature,9.61783735,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2010,UK,Annual Mean Temperature,7.938487781,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1890,UK,Annual Mean Temperature,7.957247288,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2000,UK,Annual Mean Temperature,9.098586858,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2011,UK,Annual Mean Temperature,9.607467562,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2001,UK,Annual Mean Temperature,8.800645945,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2012,UK,Annual Mean Temperature,8.737810738,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1990,UK,Annual Mean Temperature,9.379555041,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1891,UK,Annual Mean Temperature,7.601503836,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1980,UK,Annual Mean Temperature,8.255493087,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1991,UK,Annual Mean Temperature,8.541466301,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1892,UK,Annual Mean Temperature,7.01653041,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2002,UK,Annual Mean Temperature,9.436561973,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2013,UK,Annual Mean Temperature,8.741614548,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2003,UK,Annual Mean Temperature,9.472070932,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2014,UK,Annual Mean Temperature,9.87960063,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1970,UK,Annual Mean Temperature,8.313165589,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1981,UK,Annual Mean Temperature,8.102850164,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1992,UK,Annual Mean Temperature,8.693109098,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1893,UK,Annual Mean Temperature,8.782930055,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1960,UK,Annual Mean Temperature,8.538865765,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1971,UK,Annual Mean Temperature,8.728489342,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1982,UK,Annual Mean Temperature,8.656485973,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1993,UK,Annual Mean Temperature,8.325390795,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1894,UK,Annual Mean Temperature,8.185849507,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2004,UK,Annual Mean Temperature,9.441717596,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2015,UK,Annual Mean Temperature,9.184396795,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2005,UK,Annual Mean Temperature,9.415262356,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2016,UK,Annual Mean Temperature,9.286370847,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1950,UK,Annual Mean Temperature,8.29967211,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1961,UK,Annual Mean Temperature,8.669570438,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1972,UK,Annual Mean Temperature,8.100739372,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1983,UK,Annual Mean Temperature,8.826009671,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1994,UK,Annual Mean Temperature,8.885166384,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1884,UK,Annual Mean Temperature,8.475600874,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1895,UK,Annual Mean Temperature,7.546528384,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1973,UK,Annual Mean Temperature,8.431589808,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1984,UK,Annual Mean Temperature,8.573475027,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1995,UK,Annual Mean Temperature,9.173812192,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1885,UK,Annual Mean Temperature,7.361354658,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1896,UK,Annual Mean Temperature,8.259370683,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2006,UK,Annual Mean Temperature,9.702520356,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2017,UK,Annual Mean Temperature,9.530665863,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1940,UK,Annual Mean Temperature,8.007832814,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1951,UK,Annual Mean Temperature,8.113060438,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1962,UK,Annual Mean Temperature,7.561311699,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1930,UK,Annual Mean Temperature,8.291005205,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1941,UK,Annual Mean Temperature,7.956245479,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1952,UK,Annual Mean Temperature,7.99254276,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1963,UK,Annual Mean Temperature,7.403362301,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1974,UK,Annual Mean Temperature,8.377417562,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1985,UK,Annual Mean Temperature,7.784863808,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1996,UK,Annual Mean Temperature,8.178423169,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1886,UK,Annual Mean Temperature,7.451675096,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1897,UK,Annual Mean Temperature,8.229974575,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2007,UK,Annual Mean Temperature,9.564108411,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2018,UK,Annual Mean Temperature,9.445941863,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1898,UK,Annual Mean Temperature,8.875231479,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2008,UK,Annual Mean Temperature,9.021623552,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2019,UK,Annual Mean Temperature,9.388839151,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1920,UK,Annual Mean Temperature,8.450561557,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1931,UK,Annual Mean Temperature,7.978350712,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1942,UK,Annual Mean Temperature,8.032649945,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1953,UK,Annual Mean Temperature,8.909713123,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1964,UK,Annual Mean Temperature,8.309637978,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1975,UK,Annual Mean Temperature,8.76912074,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1986,UK,Annual Mean Temperature,7.674404411,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1997,UK,Annual Mean Temperature,9.408207479,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1887,UK,Annual Mean Temperature,7.508783945,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1910,UK,Annual Mean Temperature,8.090229644,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1921,UK,Annual Mean Temperature,9.240960192,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1932,UK,Annual Mean Temperature,8.350144754,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1943,UK,Annual Mean Temperature,8.881350685,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1954,UK,Annual Mean Temperature,8.127874055,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1965,UK,Annual Mean Temperature,7.755031096,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1976,UK,Annual Mean Temperature,8.735416913,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1987,UK,Annual Mean Temperature,7.993920438,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1998,UK,Annual Mean Temperature,9.157646438,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1888,UK,Annual Mean Temperature,7.280336175,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1899,UK,Annual Mean Temperature,8.57228937,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+2009,UK,Annual Mean Temperature,9.136951151,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1900,UK,Annual Mean Temperature,8.283999671,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1911,UK,Annual Mean Temperature,8.810151041,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1922,UK,Annual Mean Temperature,7.632063534,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1933,UK,Annual Mean Temperature,8.824196712,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1944,UK,Annual Mean Temperature,8.441960628,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1955,UK,Annual Mean Temperature,8.229910164,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1966,UK,Annual Mean Temperature,8.188235644,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1977,UK,Annual Mean Temperature,8.266387945,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1988,UK,Annual Mean Temperature,8.728827322,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1999,UK,Annual Mean Temperature,9.37297137,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1889,UK,Annual Mean Temperature,8.015178822,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1912,UK,Annual Mean Temperature,8.173879536,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1923,UK,Annual Mean Temperature,7.967663342,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1934,UK,Annual Mean Temperature,8.867847534,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1945,UK,Annual Mean Temperature,9.133828411,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1956,UK,Annual Mean Temperature,7.902559672,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1967,UK,Annual Mean Temperature,8.468887534,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1978,UK,Annual Mean Temperature,8.226715315,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1989,UK,Annual Mean Temperature,9.227868301,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade
+1901,UK,Annual Mean Temperature,8.082372164,http://gss-data.org.uk/def/climate-change/concept/measurement-unit/degrees-centigrade

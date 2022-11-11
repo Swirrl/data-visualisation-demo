@@ -218,8 +218,8 @@ ht/point-chart
 
 (-> (hc/xform ht/line-chart
               :FDATA "data/annual-mean-temp-uk.csv"
-              :X "year_label"
-              :Y "avg_temp")
+              :X "Year"
+              :Y "Annual Mean Temperature")
     clerk/vl)
 
 ;; Aaaaaaaaaad we finally have some visualised data!
@@ -230,8 +230,8 @@ ht/point-chart
 
 (-> (hc/xform ht/line-chart
               :FDATA "data/annual-mean-temp-uk.csv"
-              :X "year_label"
-              :Y "avg_temp"
+              :X "Year"
+              :Y "Annual Mean Temperature"
               :XTITLE "Year" ;; label for the x axis
               :YTITLE "Average temperature (ºC)" ;; label for the y axis
               :XTYPE "temporal" ;; display x axis labels as years, not numbers
@@ -246,8 +246,8 @@ ht/point-chart
 
 (-> (hc/xform ht/line-chart
               :FDATA "data/annual-mean-temp-uk.csv"
-              :X "year_label"
-              :Y "avg_temp"
+              :X "Year"
+              :Y "Annual Mean Temperature"
               :XTITLE "Year"
               :YTITLE "Average temperature (ºC)"
               :XTYPE "temporal"
@@ -265,16 +265,16 @@ ht/point-chart
 (-> (hc/xform ht/layer-chart
               :FDATA "data/annual-mean-temp-uk.csv"
               :LAYER [(hc/xform ht/line-chart
-                                :X "year_label"
-                                :Y "avg_temp"
+                                :X "Year"
+                                :Y "Annual Mean Temperature"
                                 :XTITLE "Year"
                                 :YTITLE "Average temperature (ºC)"
                                 :XTYPE "temporal"
                                 :YSCALE {:zero false}
                                 :WIDTH 700)
                       (hc/xform ht/line-chart
-                                :X "year_label"
-                                :Y "avg_temp"
+                                :X "Year"
+                                :Y "Annual Mean Temperature"
                                 :XTITLE "Year"
                                 :YTITLE "Average temperature (ºC)"
                                 :XTYPE "temporal"
